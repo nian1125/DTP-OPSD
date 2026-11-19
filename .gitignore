@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+outputs/
+cache/
+checkpoints/
+wandb/
+*.log
+
+data/videos/
+*.mp4
+*.safetensors
